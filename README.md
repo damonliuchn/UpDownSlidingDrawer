@@ -1,4 +1,3 @@
-
 # Demo_MySlidingDrawer
 
 ------
@@ -16,7 +15,7 @@ Demo_MySlidingDrawer 是下拉的SlindingDrawer。
 
 ###1、下拉的SlindingDrawer
 
-![image](https://github.com/meihua-info/api_android/raw/master/doc/1.png)
+![image](https://github.com/mentor811/Demo_MySlidingDrawer/raw/master/doc/1.png)
 
 ------
 ##欢迎批评指正
