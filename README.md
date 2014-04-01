@@ -1,6 +1,5 @@
 # Demo_MySlidingDrawer
 
-------
 
 ##作者：Mason Liu           天盟
 
