@@ -19,7 +19,7 @@ Demo_MySlidingDrawer 是下拉的SlindingDrawer。
 ------
 ##欢迎批评指正
 
-博客：http://blog.csdn.net/masonblog
+博客：http://www.dd544.com
 邮箱：MasonLiuChn@gmail.com
 
 
